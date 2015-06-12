@@ -1,1 +1,1 @@
-# myproject from tweety
+# myproject tweety
